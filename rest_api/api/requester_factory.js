@@ -186,7 +186,7 @@ Api.prototype.offset = function(offset) {
 };
 
 /**
- * Adds property to filter
+ * Adds property to limit
  *
  * @param {Object} Object single key (to associate with val) or object of key/value pairs
  * @return {Api}
